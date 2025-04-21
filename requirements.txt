@@ -1,0 +1,13 @@
+streamlit
+requests
+plotly
+pandas
+numpy
+tensorflow
+scikit-learn
+folium
+streamlit-folium
+matplotlib
+speechrecognition
+pyttsx3
+pyaudio
